@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121242398740",
+    "firebase_url": "https://kid-names-app-db-65e1c.firebaseio.com",
+    "project_id": "kid-names-app-db-65e1c",
+    "storage_bucket": "kid-names-app-db-65e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121242398740:android:0acae55ac736cace297701",
+        "android_client_info": {
+          "package_name": "bw.ub.cs.kidnames_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121242398740-dhoipmka0i4bh0rsru1jcf57hdv0o8q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACaP-a3e07jrxb_3B_ujdNuze93CMnhA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121242398740-dhoipmka0i4bh0rsru1jcf57hdv0o8q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
